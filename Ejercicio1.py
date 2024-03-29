@@ -7,4 +7,4 @@ print("Suma:", numero1 + numero2)
 print("Resta:", numero1 - numero2)
 print("Multiplicación:", numero1 * numero2)
 print("División:", numero1 / numero2)
-
+print("División:", numero1 / numero2)
